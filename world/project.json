@@ -1,0 +1,17 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "type": "character",
+      "content": "Main Hero"
+    },
+    {
+      "id": "2",
+      "type": "event",
+      "content": "World War13123eqe",
+      "updatedAt": 1774645575332,
+      "modifyCount": 9
+    }
+  ],
+  "selectedId": "2"
+}
